@@ -1,37 +1,38 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/programista-de/www/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+zmieniając pracę, zmieniajcie otoczenie i próbujcie nowych rzeczy.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+W ten sposób zdobędziecie wszechstronne doświadczenie, a właśnie wiedzę ogólną warto zdobywać na początku kariery. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Zalety software house 
 
-- Bulleted
-- List
++ różnorodność projektów. 
++ Zobaczysz wiele różnych metod realizacji podobnych zadań, poznasz w przyspieszonym tempie ich wady i zalety. 
++ W przypadku toksycznego klienta masz szybką ścieżkę ewakuacji do innego projektu.
 
-1. Numbered
-2. List
+## Wady software house
++ różnorodność projektów. 
++ W ciągu kilku miesięcy możesz się wyspecjalizować, rzeczywista specjalizacja zajęłaby lata, tymczasem ty musisz wskoczyć w środek projektu i zacząć dostarczać wartość drugiego, w ciągu kilkunastu dni.
+ + Niemal nigdy nie poczujesz też satysfakcji z tego, że klienci/użytkownicy twojego programu byli zadowoleni, bo niemal nigdy się o tym nie dowiesz. 
++ brak wpływu na projekt, rzadziej projektujesz rozwiązania, częściej robisz zlecone zadania
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Zalety firmy produktowej
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
++ satysfakcja z dobrze zrobionej roboty trwa dłużej.
++ Możesz realizować długoterminowe plany, obserwować ewolucję rozwiązań własnych i konkurencji.
++ Masz czas na specjalizację, dogłębne poznanie branży. 
++ Częściej projektujesz rozwiązania i realizujesz swoje autorskie pomysły. 
++ Słowa uznania i zadowolenia ze strony klientów dają satysfakcję.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/programista-de/www/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Wady firmy produktowej 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
++ znacznie większe ryzyko marazmu, stagnacji i pracy w starych technologiach ("bo tu zawsze tak robiliśmy").\
++ Jeśli specjalizacja firmy jest wąska a rynek stabilny, ta wiedza może nie przypadć się w przyszłości w innej firmie - możesz zostać mocno w tyle. 
++ W przypadku trudnych relacji brak możliwości szybkiej zmiany projektu/zespołu.
++ Jeśli koniunktura w wybranej branży/specjalizacji wpływa na konkurencyjne firmy, nie zawsze zmiana pracodawcy będzie możliwa lub opłacalna.
++ Znacznie częściej siła przebicia zależy od stażu albo dobrych relacji z kim trzeba.
